@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @familycomicsstudios
 - 👀 I’m interested in ... coding and stuff like scratch
-- 🌱 I’m currently learning ... scratch extensions basically
-- 💞️ I’m looking to collaborate on ... umm scratch extensions
+- 🌱 I’m currently learning ... scratch extensions basically, html js
+- 💞️ I’m looking to collaborate on ... umm scratch extensions, something scratch-related
 - 📫 How to reach me ... dunno really
 
 <!---
