@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding and stuff like scratch
 - 🌱 I’m currently learning ... scratch extensions basically, html js
 - 💞️ I’m looking to collaborate on ... umm scratch extensions, something scratch-related, TMP
-- 📫 How to reach me ... my scratch @The_Mad_Punter
+- 📫 How to reach me ... scratch via @The_Mad_Punter or @triangle5820
 
 <!---
 familycomicsstudios/familycomicsstudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
