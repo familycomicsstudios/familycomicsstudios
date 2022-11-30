@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @familycomicsstudios
-- 👀 I’m interested in ... coding and stuff like scratch
-- 🌱 I’m currently learning ... scratch extensions basically, html js
-- 💞️ I’m looking to collaborate on ... umm scratch extensions, something scratch-related, TMP
-- 📫 How to reach me ... scratch via @The_Mad_Punter or @triangle5820
+# Hi, this is Family Comics Studios!
+## About Us
+We're basically a game design business, and we make games in Scratch, Construct 3, and Unity.
+## What We're Doing
+We're making some games in Scratch and Unity. We also make some cool websites involving Scratch, and some extensions!
+## What We Want To Collaborate On
+We'll collaborate with people on Scratch extensions, Scratch websites, possibly video games, and Python!
+## Our Links
+Discord: Themadpunter#0439
 
-<!---
-familycomicsstudios/familycomicsstudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Itch: [familycomicsstudios.itch.io](familycomicsstudios.itch.io)
+
+Newgrounds: [newgounds.com/familycomicsstudios](newgounds.com/familycomicsstudios)
+
+Scratch: [Themadpunter](scratch.mit.edu/users/The_Mad_Punter), [triangle5820](scratch.mit.edu/users/triangle5820)
